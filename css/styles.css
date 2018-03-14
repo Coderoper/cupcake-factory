@@ -1,0 +1,26 @@
+body {
+  font-family: serif;
+}
+
+img {
+  max-width: 500px;
+}
+
+p.description {
+  font-style: italic;
+  font-size: 20px;
+}
+
+p.history {
+  font-family: 'Roboto Slab', serif;
+  font-size: 10px;
+}
+
+p.contact-us {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  line-height: 15px;
+  font-family: sans-serif;
+  width: 25%;
+  font-weight: 700;
+}
